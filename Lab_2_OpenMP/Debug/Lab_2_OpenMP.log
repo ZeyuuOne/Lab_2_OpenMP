@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\CSProject\Lab_2_OpenMP\Lab_2_OpenMP\main.cpp(3,23): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+D:\CSProject\Lab_2_OpenMP\Lab_2_OpenMP\main.cpp(7,13): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\CSProject\Lab_2_OpenMP\Lab_2_OpenMP\main.cpp(9,9): warning C4101: “x”: 未引用的局部变量
+  Lab_2_OpenMP.vcxproj -> D:\CSProject\Lab_2_OpenMP\Debug\Lab_2_OpenMP.exe
